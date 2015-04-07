@@ -1,0 +1,42 @@
+
+implement running (hold shift)
+implement looking up/down while strafing
+implement 2D strings- and bitmap-displaying!
+DirectX-Komponenten testen (Audio/Video)!
+Y-axis-centering on walking straight (look-spring)
+player's collision with circles
+player's collision with outside
+player's collision with walls (filled Cells!)
+bitmap-darstellung (büsche, etc..)
+KOLLISIONEN!!!
+Vorgegebene Mesh-Objekte als Klassen!
+
+Level-Captions
+==============
+Level 1 - Secret digging site, Valley of kings, Egypt
+
+Sprüche, die auf jeden Fall rein müssen:
+========================================
+"You're going ahead Amy .. I'll secure the ...  .. we'll meet up later!"
+"The ... are taking hostages..! Get up to the .. and save them!"
+"Here .. keep the gun.. keep those crowds off my back while I'm working!"
+"Take this! you should find it useful!"
+
+Box um 45° drehen ...!
+Auto als 3dsmax-datei laden!
+bg!
+büsche säubern..!
+
+Vor dem Level:
+==============
+Level objectives
+Director Briefing   ( Mr. Jones         )
+Susan Briefing      ( Assistance        )
+C Branch (Branch ?) ( Christian Fischer )
+Arthur
+
+Assistance
+bitmaps die sich immer zum spieler drehen.
+
+Steigungen und Ebenen über dem Boden ('special range object' ?)
+

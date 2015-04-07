@@ -1,0 +1,14 @@
+E:\workspaces\visual_studio\Shooter3D\trunk\Shooter3D\obj\x86\Debug\Shooter3D.csprojResolveAssemblyReference.cache
+E:\workspaces\visual_studio\Shooter3D\trunk\Shooter3D\bin\Debug\Shooter3D.exe
+E:\workspaces\visual_studio\Shooter3D\trunk\Shooter3D\bin\Debug\Shooter3D.pdb
+E:\workspaces\visual_studio\Shooter3D\trunk\Shooter3D\bin\Debug\csgl.dll
+E:\workspaces\visual_studio\Shooter3D\trunk\Shooter3D\obj\x86\Debug\Shooter3D.exe
+E:\workspaces\visual_studio\Shooter3D\trunk\Shooter3D\obj\x86\Debug\Shooter3D.pdb
+E:\workspaces\visual_studio\Shooter3D\trunk_vs\obj\x86\Debug\Shooter3D.exe
+E:\workspaces\visual_studio\Shooter3D\trunk_vs\obj\x86\Debug\Shooter3D.pdb
+E:\workspaces\visual_studio\Shooter3D\trunk_vs\bin\Debug\Shooter3D.exe
+E:\workspaces\visual_studio\Shooter3D\trunk_vs\bin\Debug\Shooter3D.pdb
+E:\workspaces\visual_studio\Shooter3D\trunk_vs\obj\x86\Debug\Shooter3D.csprojResolveAssemblyReference.cache
+E:\workspaces\visual_studio\Shooter3D\trunk_vs\obj\x86\Debug\Shooter3D.Properties.Resources.resources
+E:\workspaces\visual_studio\Shooter3D\trunk_vs\obj\x86\Debug\Shooter3D.csproj.GenerateResource.Cache
+E:\workspaces\visual_studio\Shooter3D\trunk_vs\bin\Debug\Shooter3D.exe.config
